@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 316,
+      "ypos": 305,
+      "width": 179,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 400,
+      "ypos": 440,
+      "width": 150,
+      "height": 43,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "cannot_access_inst_media"
+  ]
+}
