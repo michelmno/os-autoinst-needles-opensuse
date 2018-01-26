@@ -1,0 +1,26 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "height": 97,
+      "xpos": 22,
+      "ypos": 192,
+      "width": 299,
+      "type": "match"
+    },
+    {
+      "height": 25,
+      "ypos": 347,
+      "xpos": 692,
+      "width": 98,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-welcome",
+    "installation",
+    "languagepicked"
+  ]
+}
