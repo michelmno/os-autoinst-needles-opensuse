@@ -1,0 +1,24 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "width": 287,
+      "type": "match",
+      "height": 29,
+      "xpos": 0,
+      "ypos": 97
+    },
+    {
+      "xpos": 266,
+      "ypos": 110,
+      "width": 26,
+      "height": 19,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "emergency-shell"
+  ]
+}
