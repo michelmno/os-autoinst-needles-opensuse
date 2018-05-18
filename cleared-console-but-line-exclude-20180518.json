@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "cleared-console"
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "width": 1023,
+      "ypos": 0,
+      "height": 766,
+      "xpos": 1,
+      "type": "match"
+    }
+  ]
+}
