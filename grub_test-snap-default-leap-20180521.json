@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 130,
+      "type": "match",
+      "xpos": 21,
+      "ypos": 72,
+      "height": 23
+    },
+    {
+      "xpos": 337,
+      "ypos": 70,
+      "width": 161,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-LEAP-1",
+    "snap-default"
+  ],
+  "properties": []
+}
