@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 439,
+      "ypos": 247,
+      "width": 138,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "unknown_gnupg_key"
+  ]
+}
