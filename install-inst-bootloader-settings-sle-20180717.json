@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "inst-bootloader-settings"
+  ],
+  "area": [
+    {
+      "height": 39,
+      "width": 312,
+      "type": "match",
+      "ypos": 88,
+      "xpos": 26
+    }
+  ]
+}

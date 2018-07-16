@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 560,
+      "ypos": 523,
+      "width": 120,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "autologindisabled"
+  ],
+  "properties": []
+}

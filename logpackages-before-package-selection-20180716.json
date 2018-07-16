@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-sle",
+    "before-package-selection"
+  ],
+  "area": [
+    {
+      "xpos": 154,
+      "ypos": 190,
+      "width": 170,
+      "height": 44,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
