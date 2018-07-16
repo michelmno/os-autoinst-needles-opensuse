@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 228,
+      "ypos": 168,
+      "width": 122,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "xpos": 227,
+      "ypos": 278,
+      "width": 119,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 467,
+      "ypos": 496,
+      "width": 75,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "release-notes-sle-close-button"
+  ]
+}

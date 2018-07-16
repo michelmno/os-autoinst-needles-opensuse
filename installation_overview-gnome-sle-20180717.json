@@ -1,0 +1,31 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 389,
+      "type": "match",
+      "ypos": 121,
+      "width": 175,
+      "height": 28
+    },
+    {
+      "ypos": 166,
+      "type": "match",
+      "xpos": 392,
+      "height": 14,
+      "width": 90
+    },
+    {
+      "xpos": 392,
+      "ypos": 229,
+      "type": "match",
+      "width": 180,
+      "height": 31
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "installation-settings-overview-loaded"
+  ]
+}

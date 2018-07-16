@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-sle",
+    "startinstall"
+  ],
+  "area": [
+    {
+      "xpos": 245,
+      "ypos": 211,
+      "width": 132,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

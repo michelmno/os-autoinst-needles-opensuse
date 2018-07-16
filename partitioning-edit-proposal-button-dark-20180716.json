@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 406,
+      "type": "match",
+      "xpos": 607,
+      "height": 38,
+      "width": 147
+    }
+  ],
+  "tags": [
+    "partitioning-edit-proposal-button"
+  ]
+}

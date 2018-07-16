@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-ARCH-ppc64le",
+    "ENV-DISTRI-sle",
+    "grub2"
+  ],
+  "area": [
+    {
+      "width": 273,
+      "height": 33,
+      "xpos": 23,
+      "ypos": 78,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
