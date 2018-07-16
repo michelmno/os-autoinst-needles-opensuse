@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "packages-section-selected"
+  ],
+  "area": [
+    {
+      "ypos": 728,
+      "type": "match",
+      "xpos": 941,
+      "height": 21,
+      "width": 66
+    },
+    {
+      "xpos": 353,
+      "ypos": 121,
+      "width": 68,
+      "height": 27,
+      "type": "match"
+    }
+  ]
+}

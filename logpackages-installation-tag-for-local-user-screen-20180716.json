@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 157,
+      "ypos": 194,
+      "width": 165,
+      "height": 32,
+      "type": "match"
+    },
+    {
+      "xpos": 935,
+      "ypos": 718,
+      "width": 76,
+      "height": 41,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTR-sle",
+    "installation"
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
