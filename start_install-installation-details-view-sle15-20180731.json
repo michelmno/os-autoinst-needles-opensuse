@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "installation-details-view"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 173,
+      "ypos": 186,
+      "height": 46,
+      "xpos": 150
+    },
+    {
+      "xpos": 374,
+      "width": 51,
+      "type": "match",
+      "ypos": 146,
+      "height": 38
+    }
+  ]
+}

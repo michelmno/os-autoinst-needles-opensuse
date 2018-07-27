@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "inst-usersetup"
+  ],
+  "area": [
+    {
+      "xpos": 158,
+      "ypos": 191,
+      "height": 394,
+      "width": 517,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "tags": [
+    "ENV-BETA-1",
+    "license-agreement"
+  ],
+  "area": [
+    {
+      "xpos": 51,
+      "ypos": 194,
+      "width": 272,
+      "height": 76,
+      "type": "match"
+    },
+    {
+      "xpos": 201,
+      "ypos": 273,
+      "width": 115,
+      "height": 30,
+      "type": "match"
+    },
+    {
+      "xpos": 149,
+      "ypos": 312,
+      "width": 170,
+      "height": 35,
+      "type": "match"
+    },
+    {
+      "xpos": 415,
+      "ypos": 167,
+      "width": 312,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

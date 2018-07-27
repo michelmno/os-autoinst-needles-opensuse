@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 53,
+      "ypos": 200,
+      "width": 265,
+      "height": 62,
+      "type": "match"
+    },
+    {
+      "xpos": 360,
+      "ypos": 211,
+      "width": 196,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 361,
+      "ypos": 386,
+      "width": 227,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-ARCH=ppc64le",
+    "modules-preselected-sles"
+  ],
+  "properties": []
+}

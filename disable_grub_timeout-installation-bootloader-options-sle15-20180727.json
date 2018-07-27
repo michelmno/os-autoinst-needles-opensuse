@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 131,
+      "type": "match",
+      "height": 29,
+      "ypos": 139,
+      "xpos": 780
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "installation-bootloader-options"
+  ]
+}

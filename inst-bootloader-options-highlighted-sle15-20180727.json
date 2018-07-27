@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "inst-bootloader-options-highlighted"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 238,
+      "ypos": 724,
+      "height": 30,
+      "xpos": 774
+    },
+    {
+      "type": "match",
+      "width": 116,
+      "ypos": 138,
+      "height": 28,
+      "xpos": 787
+    }
+  ]
+}

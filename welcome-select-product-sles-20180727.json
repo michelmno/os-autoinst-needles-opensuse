@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "select-product-sles"
+  ],
+  "area": [
+    {
+      "xpos": 346,
+      "ypos": 428,
+      "width": 99,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "xpos": 363,
+      "ypos": 456,
+      "width": 187,
+      "height": 32,
+      "type": "match"
+    }
+  ]
+}

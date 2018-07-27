@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 237,
+      "ypos": 78,
+      "height": 33,
+      "xpos": 23
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-ppc64le",
+    "ENV-DISTRI-sle",
+    "ENV-VERSION-15.0",
+    "OFW",
+    "grub2"
+  ],
+  "properties": []
+}
