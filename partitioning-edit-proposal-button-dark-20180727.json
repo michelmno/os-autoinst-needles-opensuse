@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "partitioning-edit-proposal-button",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "xpos": 615,
+      "width": 147,
+      "type": "match",
+      "height": 38,
+      "ypos": 661
+    },
+    {
+      "xpos": 629,
+      "ypos": 620,
+      "width": 104,
+      "height": 42,
+      "type": "match"
+    }
+  ]
+}
