@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DISTRI=sle",
+    "system-role-default-system",
+    "system-role-minimal",
+    "system-role-minimal-selected"
+  ],
+  "area": [
+    {
+      "xpos": 127,
+      "ypos": 175,
+      "width": 561,
+      "height": 58,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

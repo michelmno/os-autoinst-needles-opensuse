@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "scc-skip-reg-warning-ok"
+  ],
+  "area": [
+    {
+      "xpos": 350,
+      "width": 285,
+      "type": "match",
+      "height": 87,
+      "ypos": 306
+    },
+    {
+      "xpos": 463,
+      "ypos": 444,
+      "width": 95,
+      "height": 46,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

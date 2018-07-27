@@ -1,0 +1,38 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "inst-overview",
+    "installation-settings-overview-loaded"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 203,
+      "ypos": 152,
+      "height": 44,
+      "xpos": 391
+    },
+    {
+      "xpos": 392,
+      "width": 120,
+      "type": "match",
+      "height": 29,
+      "ypos": 199
+    },
+    {
+      "xpos": 431,
+      "type": "match",
+      "width": 108,
+      "ypos": 289,
+      "height": 12
+    },
+    {
+      "xpos": 24,
+      "height": 35,
+      "ypos": 196,
+      "type": "match",
+      "width": 294
+    }
+  ]
+}

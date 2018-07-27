@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 417,
+      "type": "match",
+      "width": 186,
+      "ypos": 337,
+      "height": 121
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "inst-userpasswdtoosimple"
+  ],
+  "properties": []
+}
