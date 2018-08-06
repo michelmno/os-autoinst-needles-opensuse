@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "screenlocker_broken"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 10,
+      "ypos": 231,
+      "width": 995,
+      "height": 42,
+      "type": "match"
+    }
+  ]
+}
