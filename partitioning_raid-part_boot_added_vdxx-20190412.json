@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 209,
+      "width": 64,
+      "xpos": 387,
+      "height": 20
+    },
+    {
+      "xpos": 560,
+      "width": 64,
+      "height": 21,
+      "type": "match",
+      "ypos": 210
+    },
+    {
+      "xpos": 322,
+      "ypos": 208,
+      "width": 46,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-OFW-1",
+    "partitioning_raid-part_boot_added"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 250,
+      "type": "match",
+      "height": 94,
+      "width": 65,
+      "xpos": 222
+    },
+    {
+      "xpos": 201,
+      "ypos": 251,
+      "width": 74,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning_raid-devices_first_partition"
+  ]
+}
