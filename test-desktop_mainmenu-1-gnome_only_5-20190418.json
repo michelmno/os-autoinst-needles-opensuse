@@ -1,0 +1,40 @@
+{
+  "area": [
+    {
+      "ypos": 0,
+      "type": "match",
+      "height": 26,
+      "xpos": 0,
+      "width": 96
+    },
+    {
+      "height": 30,
+      "xpos": 966,
+      "width": 43,
+      "ypos": 0,
+      "type": "match"
+    },
+    {
+      "width": 361,
+      "xpos": 327,
+      "height": 45,
+      "type": "match",
+      "ypos": 46
+    },
+    {
+      "ypos": 171,
+      "type": "match",
+      "height": 501,
+      "width": 63,
+      "xpos": 12
+    }
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "test-desktop_mainmenu-1",
+    "ENV-ARCH=ppc64le",
+    "ENV-DESKTOP-gnome"
+  ]
+}
