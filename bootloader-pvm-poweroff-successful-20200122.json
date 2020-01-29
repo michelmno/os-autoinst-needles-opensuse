@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 111,
+      "width": 226,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 136,
+      "ypos": 96,
+      "width": 144,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 383,
+      "ypos": 97,
+      "width": 131,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pvm-poweroff-successful"
+  ]
+}

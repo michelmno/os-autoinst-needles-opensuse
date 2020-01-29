@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 132,
+      "ypos": 66,
+      "width": 66,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 80,
+      "width": 187,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pvm-vterm-closed"
+  ]
+}
