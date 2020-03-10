@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 263,
+      "xpos": 4,
+      "height": 86,
+      "ypos": 430
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pvm-bootmenu-boot-order"
+  ]
+}

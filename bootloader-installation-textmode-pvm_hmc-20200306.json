@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 105,
+      "ypos": 94,
+      "width": 199,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-pvm_hmc",
+    "ENV-VIDEOMODE-text",
+    "installation"
+  ]
+}
