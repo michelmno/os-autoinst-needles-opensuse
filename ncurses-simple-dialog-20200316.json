@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 65,
+      "ypos": 355,
+      "width": 181,
+      "type": "match",
+      "xpos": 423
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ncurses-simple-dialog"
+  ]
+}
