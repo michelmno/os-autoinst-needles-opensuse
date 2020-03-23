@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 12,
+      "type": "match",
+      "width": 445,
+      "ypos": 27,
+      "height": 22
+    },
+    {
+      "xpos": 13,
+      "ypos": 194,
+      "width": 584,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-pvm-hmc",
+    "ENV-DISTRI-opensuse",
+    "yast2_lan"
+  ]
+}

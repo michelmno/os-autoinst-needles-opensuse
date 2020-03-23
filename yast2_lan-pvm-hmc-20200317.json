@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 14,
+      "width": 397,
+      "ypos": 31,
+      "height": 91
+    },
+    {
+      "xpos": 21,
+      "ypos": 79,
+      "width": 288,
+      "height": 17,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-pvm-hmc",
+    "test-yast2_lan-1"
+  ]
+}

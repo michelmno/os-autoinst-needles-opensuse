@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "ypos": 27,
+      "width": 286,
+      "xpos": 8,
+      "type": "match",
+      "height": 165
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "poo#64192, location is not /dev/disk/by_path/*"
+    }
+  ],
+  "tags": [
+    "ENV-BACKEND-pvm-hmc",
+    "test-yast2_bootloader-1"
+  ]
+}
